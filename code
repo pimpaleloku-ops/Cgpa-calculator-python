@@ -7,4 +7,4 @@ sub5 = float(input("Subject 5 marks: "))
 total = sub1+sub2+sub3+sub4+sub5
 percentage = total/5
 cgpa = percentage/9.5
-print(f"Total: {total}, CGPA: {cgpa:.2f}")
+print(f"Total: {total}, CGPA: {cgpa:.2f}") 
